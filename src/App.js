@@ -9,9 +9,12 @@ import Manager from './ARootFolder/Manager';
 import CnFoodHub from './components/CnFoodHub';
 import CnPlaceOrder from './components/CnPlaceOrder';
 import FrCnOrder from './components/FrCnOrder';
-import FrFrmProfs from './components/FrFrmProfs';
+import FrFrmOrders from './components/FrFrmOrders';
 import MnLcFrOrders from './components/MnLcFrOrders';
 import MnUpdateFrOrders from './components/MnUpdateFrOrders';
+
+import PlaceOrderModal from './components/farmerComp/PlaceOrderModal';
+
 function App() {
   /*
   // const {vegis, setVegis} = useState([
@@ -46,7 +49,13 @@ function App() {
           children:[
             {
               path : '',
-              element : <FrFrmProfs/> 
+              element : <FrFrmOrders/>, 
+              children: [
+                {
+                  path : 'addcrop',
+                  element : <PlaceOrderModal/>
+                }
+              ]
             },
             {
               path : 'frcnorder',

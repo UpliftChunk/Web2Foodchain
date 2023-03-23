@@ -8,7 +8,7 @@ function Farmer() {
     {/* navBar */}
       <Navbar>
           <Nav className="d-flex navbarContainer ms-auto me-auto ">
-            <Link className='nav-link' to="">Other Farmers</Link>
+            <Link className='nav-link' to="">Sell crop</Link>
             <Link className='nav-link' to="frcnorder">Check Orders</Link>
           </Nav>
       </Navbar>
