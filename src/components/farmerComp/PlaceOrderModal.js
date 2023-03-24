@@ -36,7 +36,7 @@ function PlaceOrderModal(props) {
                 </Modal.Body>
                 {/* button */}
                 <Modal.Footer className="d-flex justify-content-around mt-3">
-                  <button className="btn rounded-pill text-white btn-secondary" onClick={NormalState} >close</button>
+                  <button className="btn rounded-pill text-white btn-secondary" onClick={NormalState} >cancel</button>
                   <button className="btn rounded-pill text-white btn-success" onClick={NormalState}>Place Request to PickUp</button>
                 </Modal.Footer>
               </Modal.Body>

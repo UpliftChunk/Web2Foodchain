@@ -1,0 +1,185 @@
+{
+   "vegis": [
+     {
+       "photo": "https://i.pinimg.com/736x/f7/a0/b4/f7a0b4841f873edc61787a79525804b5.jpg",
+       "variety": "Grape tomatoes",
+       "price": "60"
+     },
+     {
+       "photo": "https://blog.apnikheti.com/wp-content/uploads/2017/10/154194030.jpg",
+       "variety": "Chipsona Potato",
+       "price": "12"
+     },
+     {
+       "photo": "https://nurtureplant.in/wp-content/uploads/2019/09/pusa-himani-variety-871x1024-1-300x300.jpg",
+       "variety": "Pusa Chetki Raddish",
+       "price": "300"
+     },
+     {
+       "photo": "https://sandiegoseedcompany.com/wp-content/uploads/2021/02/Carrot-Tendersweet.jpg",
+       "variety": "Tendersweet Carrot",
+       "price": "230"
+     },
+     {
+       "photo": "https://cdn.shopify.com/s/files/1/0488/7855/1202/products/bean-flageolet-flagrano-s018_b87dbfb4-637e-4856-bf74-40b459e2d5af_1600x.jpg",
+       "variety": "Beans",
+       "price": "30"
+     },
+     {
+       "photo": "https://i.pinimg.com/736x/29/5b/34/295b34b6fdff83a36064aaa619e7edfa.jpg",
+       "variety": "Onion",
+       "price": "14"
+     },
+     {
+       "photo": "https://easyindiancookbook.com/wp-content/uploads/2022/11/mung-bean-sprouts-2.jpg",
+       "variety": "Sprouts",
+       "price": "37"
+     },
+     {
+       "photo": "https://www.thespruceeats.com/thmb/hRju0LBJys2xhDsDqtCVfJugCRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/raw-organic-healthy-millet-547424934-5ab5cbe3875db9003719529a.jpg",
+       "variety": "Millet",
+       "price": "78"
+     },
+     {
+       "photo": "https://ueirorganic.com/image/cache/catalog/1%20New%20/Dry%20Corn-800x800.png",
+       "variety": "Dry Popcorn Maize",
+       "price": "90"
+     },
+     {
+       "photo": "https://economictimes.indiatimes.com/thumb/msid-94280172,width-1200,height-900,resizemode-4,imgsize-143428/price-rise-high-shipment-led-to-export-restrictions-on-rice-food-secretary.jpg",
+       "variety": "Wheat",
+       "price": "28"
+     },
+     {
+       "photo": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/01/mangoes_what_to_know_732x549_thumb-732x549.jpg",
+       "variety": "Mango",
+       "price": "70"
+     },
+     {
+       "photo": "https://rukminim1.flixcart.com/image/416/416/kgsb1jk0/grain-millet/h/m/r/0-5-jau-barley-seeds-500gm-barley-jai-jinendra-original-imafwy7xrwtgaug7.jpeg",
+       "variety": "Barley",
+       "price": "72"
+     }
+   ]
+   ,
+   "farmer1orders": [
+      {
+         "variety":" ",
+         "quantity":" ",
+         "date":" "
+      },
+      {
+         "variety":" ",
+         "quantity":" ",
+         "date":" "
+      },
+      {
+         "variety":" ",
+         "quantity":" ",
+         "date":" "
+      },
+      {
+         "variety":" ",
+         "quantity":" ",
+         "date":" "
+      },
+      {
+         "variety":" ",
+         "quantity":" ",
+         "date":" "
+      }
+   ]
+   ,
+   "allCnOrders":[
+      {
+        "photo":"https://st2.depositphotos.com/1005893/7964/i/950/depositphotos_79645956-stock-photo-indian-using-touch-screen-tablet.jpg",
+        "username":"ramuSupermarket",
+        "location":"Shadhnagar",
+        "description":"Looking for Fresh kiwi",
+        "requirements":"soil type, farming style..",
+        "Variety":"Kiwi",
+        "Quantity":15,
+        "MyBudget":25000,
+        "CurrentBid":22000
+      },
+      {
+        "photo":" ",
+        "username":" ",
+        "location":" ",
+        "description":" ",
+        "requirements":" ",
+        "Variety":" ",
+        "Quantity":" ",
+        "MyBudget":" ",
+        "CurrentBid":" "
+      },
+      {
+        "photo":" ",
+        "username":" ",
+        "location":" ",
+        "description":" ",
+        "requirements":" ",
+        "Variety":" ",
+        "Quantity":" ",
+        "MyBudget":" ",
+        "CurrentBid":" "
+      },
+      {
+        "photo":" ",
+        "username":" ",
+        "location":" ",
+        "description":" ",
+        "requirements":" ",
+        "Variety":" ",
+        "Quantity":" ",
+        "MyBudget":" ",
+        "CurrentBid":" "
+      }
+   ]
+   ,
+   "allFrOrders":[
+    {
+      "username":"ramu",
+      "variety":"Batani",
+      "quantity":"13",
+      "date":"19/3/23",
+      "now":"btn btn-primary"
+    },
+    {
+      "username":"venkat",
+      "variety":"potato",
+      "quantity":"8",
+      "date":"20/3/23",
+      "now":"btn btn-primary"
+    },
+    {
+      "username":"manga",
+      "variety":"Brinjal",
+      "quantity":"21",
+      "date":"21/3/23",
+      "now":"btn btn-primary"
+    },
+    {
+      "username":"krishna",
+      "variety":"Tomato",
+      "quantity":"28",
+      "date":"21/3/23",
+      "now":"btn btn-primary"
+    },
+    {
+      "username":"keerthi",
+      "variety":"Tomato",
+      "quantity":"49",
+      "date":"21/3/23",
+      "now":"btn btn-primary"
+    },
+    {
+      "username":"krishna",
+      "variety":"Beetroot",
+      "quantity":"31",
+      "date":"21/3/23",
+      "now":"btn btn-primary"
+    }
+   ]
+
+ }

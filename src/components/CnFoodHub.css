@@ -1,0 +1,16 @@
+.countbox{
+   background-color: rgba(255, 139, 139, 0.514);
+   color:rgb(55, 11, 0);
+   padding-top: 4px;
+   padding-bottom: 4px;
+   /* border-radius: 5% ; */
+}
+.card1{
+   min-height: 220px;
+}
+.vegePhoto{
+   width: 100%;
+   min-width: 220px;
+   height: 180px;
+   object-fit: cover;
+ }
